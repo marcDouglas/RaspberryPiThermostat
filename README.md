@@ -18,9 +18,9 @@ The best stuff comes from the pursuit of everyday convienence.
 
 In addition to the [Raspberry Pi's](https://www.adafruit.com/products/1914) ($40 each,) you will need some additional hardware, and know some basic knowledge about them. The main components are:
 
-* [SainSmart 4-channel relay module](http://www.amazon.com/gp/product/B0057OC5O8/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1) for the HVAC controller Pi (under $10)
-* [DS18B20 Digital temperature sensor](http://www.adafruit.com/product/374) for the temperature sensor Pi's ($3.95 each)
-* Necessary jumper wires to connect everything 
+* [SainSmart 4-channel relay module](http://smile.amazon.com/gp/product/B0057OC5O8/ref=oh_aui_detailpage_o00_s01?ie=UTF8&psc=1) for the HVAC controller Pi (under $10)
+* [DS18B20 Digital temperature sensor](http://www.adafruit.com/product/374) for the temperature sensor Pi's ($3.95 each) or [from amazon for 8.99 each](https://smile.amazon.com/gp/product/B00SK698G8/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
+* Necessary jumper wires to connect everything  [i hope these work!](https://smile.amazon.com/gp/product/B072L1XMJR/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 
 
 # HVAC 101
